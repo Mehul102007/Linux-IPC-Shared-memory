@@ -167,6 +167,8 @@ int main()
 
 
 ## OUTPUT
+<img width="358" height="222" alt="image" src="https://github.com/user-attachments/assets/0187fcb7-9a1b-4216-97f3-346b68445ebc" />
+
 <img width="427" height="204" alt="image" src="https://github.com/user-attachments/assets/1210ce62-f1ca-4ab5-87da-d6d59afe9437" />
 
 
